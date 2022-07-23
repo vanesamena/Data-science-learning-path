@@ -27,17 +27,24 @@ Los cursos que veras aqui son algunos que realice en mi camino a desarrollarme c
 
 ## SQL
 - SQL Tutorial - Full Database Course for Beginners de [ Mike Dane ](https://www.mikedane.com/databases/sql/) o todos los videos en uno solo en [ Youtube ](https://www.youtube.com/watch?v=HXV3zeQKqGY). En este curso se ven conceptos básicos de gestión de bases de datos y SQL utilizando el MySQL RDBMS. Los recursos los podes encontrar en [esta carpeta](https://github.com/vanesamena/Data-science-learning-path/tree/main/SQL%20-%20Database%20Programming%20Language) <br>
+
 - MySQL Tutorial for Beginners Full Course disponible en [ Youtube ](https://www.youtube.com/watch?v=7S_tz1z_5bA&list=WL&index=34&t=5956s). Material del curso en [MySQL Course Materials](https://github.com/vanesamena/Data-science-learning-path/tree/main/MySQL%20Course%20Materials)<br>
-- Ejercicios. Realización de consultas SQL de [José Juan Sánchez Hernández](https://josejuansanchez.org/bd/ejercicios-consultas-sql/index.html#modelo-entidadrelaci%C3%B3n-2). Una entretenida guia de ejercicios para realizar multiples consultas en SQL. Ejercicios, datasets y soluciones en [esta carpeta](https://github.com/vanesamena/Data-science-learning-path/tree/main/Ejercicios%20SQL)
+
+- Unidad: Introducción a SQL: consulta y gestión de los datos de [khanacademy](https://es.khanacademy.org/computing/computer-programming/sql#relational-queries-in-sql)<br>
+
+- Ejercicios. Realización de consultas SQL de [José Juan Sánchez Hernández](https://josejuansanchez.org/bd/ejercicios-consultas-sql/index.html#modelo-entidadrelaci%C3%B3n-2). Una entretenida guia de ejercicios para realizar multiples consultas en SQL. Ejercicios, datasets y soluciones en [esta carpeta](https://github.com/vanesamena/Data-science-learning-path/tree/main/Ejercicios%20SQL)<br>
 
 ## Power BI
-- Power BI Crash Course for Beginners 2020 - Analyze & Visualize Data with Power BI Desktop disponible en [ Youtube ](https://www.youtube.com/watch?v=dGitIJMpf_4&t=2174s)
-- Power BI 2022 Power BI desde CERO (Curso Completo) disponible en [ Youtube ](https://www.youtube.com/watch?v=OQ0IpdT-KuI)
-- Curso Power BI – Análisis de Datos y Business Intelligence disponible en [ Udemy ](https://www.udemy.com/course/power-bi-analisis-datos-business-intelligence/#overview)
+- Power BI Crash Course for Beginners 2020 - Analyze & Visualize Data with Power BI Desktop disponible en [ Youtube ](https://www.youtube.com/watch?v=dGitIJMpf_4&t=2174s)<br>
+
+- Power BI 2022 Power BI desde CERO (Curso Completo) disponible en [ Youtube ](https://www.youtube.com/watch?v=OQ0IpdT-KuI)<br>
+
+- Curso Power BI – Análisis de Datos y Business Intelligence disponible en [ Udemy ](https://www.udemy.com/course/power-bi-analisis-datos-business-intelligence/#overview)<br>
 
 ## Otros cursos de interes
 - Automate with Python – Full Course for Beginners disponible en [ Youtube ](https://www.youtube.com/watch?v=PXMJ6FS7llk&t=488s). Aprenderá cómo automatizar tareas aburridas y repetitivas, como crear un informe de Excel, enviar mensajes de texto, extraer tablas de sitios web, interactuar con sitios web y más. Aprenderá a usar algunas bibliotecas de Python diferentes para ayudar con la automatización, como Path, Selenium, XPath y más.
-- Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex) disponible en [ Youtube ](https://www.youtube.com/watch?v=K8L6KVGG-7o&t=2593s)
+- Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex) disponible en [ Youtube ](https://www.youtube.com/watch?v=K8L6KVGG-7o&t=2593s)<br>
+- PostgreSQL for Everybody [pg4e](https://www.pg4e.com/)
 
 ## Paginas importantes
 - [Stack Overflow](http://stackoverflow.com/)
@@ -46,3 +53,9 @@ Los cursos que veras aqui son algunos que realice en mi camino a desarrollarme c
 - [Pandas Documentation](https://pandas.pydata.org/docs/index.html)
 - [Seaborn Documentation](https://seaborn.pydata.org/index.html)
 - [Matplotlib 3.5.2 documentation](https://matplotlib.org/stable/index.html)
+- [aprendepython](https://aprendepython.es/)
+
+## Para practicar codigo
+- [hackerrank](https://www.hackerrank.com/)
+- [exercism](https://exercism.org/tracks/python)
+- [codewars](https://www.codewars.com/)
