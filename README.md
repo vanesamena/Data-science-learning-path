@@ -1,6 +1,6 @@
 # Cursos a tu ritmo y ejercitacion recomendada que me sirvieron para avanzar en la carrera de Data Scientist.
 
-Los cursos que veras aqui son algunos que realice en mi camino a desarrollarme como Data Scientist. Hay muchos mas, aqui seleccione los que creo que fueron fundamentales. En las carpetas que encontraras en el repo se encuentran algunos materiales y recursos que te serviran para algunos de estos cursos.
+Los cursos que veras aqui son algunos que realice, ademas del Bootcamp de data de Henry, en mi camino a desarrollarme como Data Scientist. Hay muchos mas, aqui seleccione los que creo que fueron fundamentales. En las carpetas que encontraras en el repo se encuentran algunos materiales y recursos que te serviran para algunos de estos cursos.
 
 ## PYTHON 
 - Aprende Python - Curso completo para principiantes de [ Mike Dane ](https://www.mikedane.com/programming-languages/python/) o todos los videos en uno solo en [ Youtube ](https://www.youtube.com/watch?v=rfscVS0vtbw). Este curso te dará una introducción completa de los conceptos principales de Python.<br>
