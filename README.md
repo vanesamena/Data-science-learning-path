@@ -59,3 +59,6 @@ Los cursos que veras aqui son algunos que realice, ademas del Bootcamp de data d
 - [hackerrank](https://www.hackerrank.com/)
 - [exercism](https://exercism.org/tracks/python)
 - [codewars](https://www.codewars.com/)
+
+## Extras
+- Python para principiantes, que curso GRATIS elegir?? [Nota aqui de freeCodecamp](https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/)
