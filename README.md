@@ -62,3 +62,4 @@ Los cursos que veras aqui son algunos que realice, ademas del Bootcamp de data d
 
 ## Extras
 - Python para principiantes, que curso GRATIS elegir?? [Nota aqui de freeCodecamp](https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/)
+- Canal de YouTube del [Intituto Humai](https://www.youtube.com/c/InstitutoHumai), tiene muchos cursos libres en español
